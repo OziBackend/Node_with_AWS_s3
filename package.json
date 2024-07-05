@@ -1,0 +1,12 @@
+{
+  "name": "node-with-aws-s3",
+  "version": "1.0.0",
+  "description": "node with adding data in aws-s3",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "nodemon index.js"
+  },
+  "author": "OziBackend",
+  "license": "ISC"
+}
